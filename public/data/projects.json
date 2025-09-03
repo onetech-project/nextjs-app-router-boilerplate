@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Maybank Indonesia",
+    "description": "Collaborate with cross-functional teams to develop a web-based internet banking system to view and make transactions, including Foreign Transactions, using a Multicurrency Account that is available in 13 currencies within one account.",
+    "accomplishments": [
+      "Working closely with Product Owner to gather and define requirements.",
+      "Collaborate with Backend and Core Banking team to develop a seamless account inquiry and transaction flow, especially for SWIFT transactions, by using a Multicurrency Account."
+    ],
+    "period": "Okt 2024 - Present"
+  },
+  {
+    "company": "Telekomunikasi Indonesia (Telkom)",
+    "description": "Working closely with Product Owner, Stakeholders, and cross-functional teams to develop a reliable web and mobile application for a Partnership Management System.",
+    "accomplishments": [
+      "Lead and direct 2 Backend Developers, 2 Web Developers, and 2 Mobile Developers to deliver clean and reliable code and features.",
+      "Increase development effectiveness by defining clear requirements before development starts in every sprint.",
+      "Successfully mentored 2 Backend Developers and 2 Mobile Developers to become full-stack developers by giving direction and opportunities to do end-to-end tasks."
+    ],
+    "period": "Jul 2021 - Sept 2024"
+  },
+  {
+    "company": "Ecomindo",
+    "description": "Working closely with cross-functional teams and clients to develop specific requirement systems or tools to support corporate business needs.",
+    "clients": [
+      {
+        "clientName": "PT Bursa Efek Indonesia (IDX)",
+        "accomplishments": [
+          "Develop reporting and trading system for bond exchange called Centralized Trading Platform, built with Java and Adobe Flex.",
+          "Develop new features for trade cancellation and correction.",
+          "Develop several reporting services to generate cancelled and corrected trade data, calculate fees, and export them in Excel format."
+        ]
+      },
+      {
+        "clientName": "PT Bank Tabungan Pensiunan Nasional (BTPN)",
+        "accomplishments": [
+          "Build and develop a web application for tracking pension fund collection.",
+          "Integrate with Core System to send pension fund data.",
+          "Maintain the production environment; fix bugs when found and implement performance improvements."
+        ]
+      },
+      {
+        "clientName": "PT Prudential Life Assurance Indonesia (PLAI)",
+        "accomplishments": [
+          "Build and develop a mobile application for insurance quotes and sales using React Native.",
+          "Integrate the mobile application with Prudential Core System to send insurance quotations and receive production data.",
+          "Maintain the production environment; fix bugs when found and implement performance improvements.",
+          "Help and guide agents when encountering problems while using the application."
+        ]
+      }
+    ],
+    "period": "Okt 2018 - Feb 2021"
+  }
+]

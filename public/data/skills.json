@@ -1,0 +1,34 @@
+[
+  {
+    "name": "React.JS",
+    "color": "bg-pink-500 hover:bg-pink-600"
+  },
+  {
+    "name": "Next.JS",
+    "color": "bg-blue-500 hover:bg-blue-600"
+  },
+  {
+    "name": "Tailwind CSS",
+    "color": "bg-purple-500 hover:bg-purple-600"
+  },
+  {
+    "name": "MongoDB",
+    "color": "bg-green-500 hover:bg-green-600"
+  },
+  {
+    "name": "Node.JS",
+    "color": "bg-pink-500 hover:bg-pink-600"
+  },
+  {
+    "name": "NestJS",
+    "color": "bg-blue-500 hover:bg-blue-600"
+  },
+  {
+    "name": "TypeScript",
+    "color": "bg-yellow-500 hover:bg-yellow-600"
+  },
+  {
+    "name": "PostgreSQL",
+    "color": "bg-green-500 hover:bg-green-600"
+  }
+]

@@ -9,7 +9,7 @@ export default function About() {
           <div className="flex flex-col md:flex-row items-center gap-8 mb-8">
             <div className="w-40 h-40 md:w-48 md:h-48 shrink-0">
               <Image
-                src="/images/profile-photo.jpg"
+                src="images/profile-photo.jpg"
                 alt="Profile Photo"
                 width={224}
                 height={224}
